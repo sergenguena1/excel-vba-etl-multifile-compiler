@@ -111,7 +111,7 @@ The script is designed to be easily adapted:
 ## 👤 Author
 
 **Serge NGUENA** — Senior Commercial Performance & BI Analyst  
-[LinkedIn](https://linkedin.com/in/serge-nguena) • Montreal, QC • Permanent Resident
+[LinkedIn](https://linkedin.com/in/serge-nguena) • Laval, QC • 
 
 *Microsoft Certified: Data Analyst Associate (Power BI)*
 
